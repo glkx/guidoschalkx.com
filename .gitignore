@@ -1,0 +1,18 @@
+## Windows
+Desktop.ini
+Thumbs.db
+
+## Mac
+.DS_Store
+
+## Development
+.sass-cache
+node_modules
+build
+dist
+src/library/vendor
+*.log
+
+## Editor
+*.sublime-project
+*.sublime-workspace
