@@ -1,4 +1,4 @@
-# Avatar: The Four Elements
+# Guido Schalkx
 
 ## Table of contents
 
@@ -11,4 +11,4 @@
 
 ## Copyright
 
-Code and documentation copyright 2020 [Glkx](https://www.guidoschalkx.com/)
+Code and documentation copyright 2024 [Glkx](https://www.guidoschalkx.com/)
